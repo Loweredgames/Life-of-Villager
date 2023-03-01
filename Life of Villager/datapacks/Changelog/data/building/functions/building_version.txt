@@ -1,0 +1,16 @@
+
+Name: Life of Villager
+
+Edition: JAVA EDITION
+
+Release: 1.0.0 - JE-1.17.1-Life of Villager:NIGHTLY_BUILDING:18.10.2021a
+
+Resource_pack: TRUE
+
+Data_pack: TRUE
+
+Github: https://github.com/Lorenzo0310200/Life-of-Villager
+
+Github_Tag: JE-0a
+
+Website:https://minecraft-map-building-versions.blogspot.com/
