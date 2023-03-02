@@ -10,11 +10,11 @@ bossbar set minecraft:building max 100
 
 #Version Number
 
-bossbar set building name {"text":"JE-1.17.1-Life of Villager:NIGHTLY_BUILDING:18.10.2021a","color":"white","bold":true}
+bossbar set building name {"text":"JE-1.17.1-Life of Villager:NIGHTLY_BUILDING:01.03.2023a","color":"white","bold":true}
 
 #Map Progress
 
-bossbar set minecraft:building value 1
+bossbar set minecraft:building value 0
 
 #Warning Message
 

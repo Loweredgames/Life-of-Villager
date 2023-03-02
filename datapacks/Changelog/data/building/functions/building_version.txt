@@ -3,7 +3,7 @@ Name: Life of Villager
 
 Edition: JAVA EDITION
 
-Release: 1.0.0 - JE-1.17.1-Life of Villager:NIGHTLY_BUILDING:18.10.2021a
+Release: 1.0.0 - JE-1.17.1-Life of Villager:NIGHTLY_BUILDING:01.03.2023a
 
 Resource_pack: TRUE
 
